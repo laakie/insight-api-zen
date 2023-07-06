@@ -10,5 +10,9 @@
   {
     "scid": "1e18829f9cc9904cadaddb613eb8fbca939d13754faee712be55ebb0dbd71bb4",
     "customName": "TokenMint Chain Mainnet"
+  },
+  {
+    "scid": "37a6ec6f308ef03488f7c2affe56215469d936194ff71c2fe3086aedb718a9fa",
+    "customName": "Horizen EON"
   }
 ]
